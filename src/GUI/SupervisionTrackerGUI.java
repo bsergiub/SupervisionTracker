@@ -63,7 +63,7 @@ public class SupervisionTrackerGUI extends javax.swing.JFrame {
         rSupervisorSergiu = new javax.swing.JRadioButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Supervison Tracker");
+        setTitle("Supervision Tracker");
         addWindowListener(new java.awt.event.WindowAdapter() {
             public void windowOpened(java.awt.event.WindowEvent evt) {
                 formWindowOpened(evt);
